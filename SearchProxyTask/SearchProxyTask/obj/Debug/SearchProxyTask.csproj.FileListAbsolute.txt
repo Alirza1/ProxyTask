@@ -1,0 +1,16 @@
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\bin\Debug\SearchProxyTask.exe.config
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\bin\Debug\SearchProxyTask.exe
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\bin\Debug\SearchProxyTask.pdb
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.csproj.AssemblyReference.cache
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\MainWindow.g.cs
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\App.g.cs
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask_MarkupCompile.cache
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask_MarkupCompile.lref
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\MainWindow.baml
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.g.resources
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.Properties.Resources.resources
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.csproj.GenerateResource.cache
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.csproj.CoreCompileInputs.cache
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.exe
+C:\Users\alirz\source\repos\SearchProxyTask\SearchProxyTask\obj\Debug\SearchProxyTask.pdb
